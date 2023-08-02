@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[4082],{5932:e=>{e.exports=JSON.parse('{"label":"mkdocs","permalink":"/tags/mkdocs","allTagsPath":"/tags","count":1,"items":[{"id":"technical/mkdocs/uncategorized","title":"notes","description":"Using mkdocs","permalink":"/technical/mkdocs/uncategorized"}]}')}}]);

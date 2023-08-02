@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[2998],{9712:e=>{e.exports=JSON.parse('{"title":"mkdocs","slug":"/category/mkdocs","permalink":"/category/mkdocs","navigation":{"previous":{"title":"notes","permalink":"/technical/linux/uncategorized"},"next":{"title":"notes","permalink":"/technical/mkdocs/uncategorized"}}}')}}]);

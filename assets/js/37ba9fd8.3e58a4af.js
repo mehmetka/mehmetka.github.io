@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[5464],{1262:e=>{e.exports=JSON.parse('{"title":"books","slug":"/category/books","permalink":"/category/books","navigation":{"previous":{"title":"sabahattin-ali","permalink":"/general/author/sabahattin-ali"},"next":{"title":"notes","permalink":"/general/books/uncategorized"}}}')}}]);

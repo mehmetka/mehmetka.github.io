@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[3942],{2741:e=>{e.exports=JSON.parse('{"title":"mysql","slug":"/category/mysql","permalink":"/category/mysql","navigation":{"previous":{"title":"notes","permalink":"/technical/mkdocs/uncategorized"},"next":{"title":"notes","permalink":"/technical/mysql/uncategorized"}}}')}}]);

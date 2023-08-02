@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[826],{4541:e=>{e.exports=JSON.parse('{"title":"vim","slug":"/category/vim","permalink":"/category/vim","navigation":{"previous":{"title":"notes","permalink":"/technical/uncategorized"},"next":{"title":"notes","permalink":"/technical/vim/uncategorized"}}}')}}]);
