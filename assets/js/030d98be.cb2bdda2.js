@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[7332],{6502:e=>{e.exports=JSON.parse('{"title":"author","slug":"/category/author","permalink":"/category/author","navigation":{"previous":{"title":"general","permalink":"/category/general"},"next":{"title":"emma-goldman","permalink":"/general/author/emma-goldman"}}}')}}]);

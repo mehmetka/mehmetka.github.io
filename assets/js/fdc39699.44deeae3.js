@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[208],{4297:e=>{e.exports=JSON.parse('{"label":"necm","permalink":"/tags/necm","allTagsPath":"/tags","count":1,"items":[{"id":"general/reading/quran","title":"quran","description":"Yoksa insan her istedi\u011fini elde edebilece\u011fini mi san\u0131r?","permalink":"/general/reading/quran"}]}')}}]);

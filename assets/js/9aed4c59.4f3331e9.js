@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[1882],{415:a=>{a.exports=JSON.parse('{"label":"oguzatay","permalink":"/tags/oguzatay","allTagsPath":"/tags","count":1,"items":[{"id":"general/reading/oguz-atay","title":"oguz-atay","description":"Sen duydun mu sustuklar\u0131m\u0131?","permalink":"/general/reading/oguz-atay"}]}')}}]);

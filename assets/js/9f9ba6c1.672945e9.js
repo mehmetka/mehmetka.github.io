@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[5738],{5069:e=>{e.exports=JSON.parse('{"title":"git","slug":"/category/git","permalink":"/category/git","navigation":{"previous":{"title":"uncategorized","permalink":"/technical/elasticsearch/uncategorized"},"next":{"title":"Git Flow","permalink":"/technical/git/gitflow"}}}')}}]);

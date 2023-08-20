@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[8177],{1917:e=>{e.exports=JSON.parse('{"label":"thepunisher","permalink":"/tags/thepunisher","allTagsPath":"/tags","count":1,"items":[{"id":"general/series/uncategorized","title":"uncategorized","description":"Ben deliyim ya","permalink":"/general/series/uncategorized"}]}')}}]);

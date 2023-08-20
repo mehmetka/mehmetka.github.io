@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[8019],{8556:a=>{a.exports=JSON.parse('{"label":"bassguitar","permalink":"/tags/bassguitar","allTagsPath":"/tags","count":1,"items":[{"id":"general/bassguitar","title":"bassguitar","description":"Cunku neden mutevazi? Basci olmayi kabul etmis.","permalink":"/general/bassguitar"}]}')}}]);

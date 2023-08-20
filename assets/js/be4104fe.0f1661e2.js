@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[2596],{810:a=>{a.exports=JSON.parse('{"label":"gojira","permalink":"/tags/gojira","allTagsPath":"/tags","count":1,"items":[{"id":"general/gojira","title":"gojira","description":"\\"the sinking ship of men\\" a.k.a. Earth","permalink":"/general/gojira"}]}')}}]);

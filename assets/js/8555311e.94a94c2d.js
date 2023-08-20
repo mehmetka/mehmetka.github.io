@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[5102],{348:t=>{t.exports=JSON.parse('{"title":"how-to","slug":"/category/how-to","permalink":"/category/how-to","navigation":{"previous":{"title":"notes","permalink":"/technical/golang/uncategorized"},"next":{"title":"Basic Auth with cURL","permalink":"/technical/how-to/basic-auth-w-curl"}}}')}}]);

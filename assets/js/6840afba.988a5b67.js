@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[7462],{1271:e=>{e.exports=JSON.parse('{"label":"science","permalink":"/tags/science","allTagsPath":"/tags","count":1,"items":[{"id":"general/uncategorized","title":"notes","description":"bilim dedigimiz sistematik veriye dayali arguman gelistirmektir.","permalink":"/general/uncategorized"}]}')}}]);

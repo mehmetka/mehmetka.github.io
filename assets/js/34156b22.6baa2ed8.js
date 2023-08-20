@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[6566],{1588:e=>{e.exports=JSON.parse('{"title":"general","slug":"/category/general","permalink":"/category/general","navigation":{"previous":{"title":"Intro","permalink":"/"},"next":{"title":"author","permalink":"/category/author"}}}')}}]);

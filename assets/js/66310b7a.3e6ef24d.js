@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[2637],{1253:e=>{e.exports=JSON.parse('{"label":"leylailemecnun","permalink":"/tags/leylailemecnun","allTagsPath":"/tags","count":1,"items":[{"id":"general/series/uncategorized","title":"uncategorized","description":"Ben deliyim ya","permalink":"/general/series/uncategorized"}]}')}}]);
