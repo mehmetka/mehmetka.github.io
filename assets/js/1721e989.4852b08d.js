@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[8750],{1978:e=>{e.exports=JSON.parse('{"label":"golang","permalink":"/tags/golang","allTagsPath":"/tags","count":1,"items":[{"id":"technical/uncategorized","title":"uncategorized","description":"Solution:","permalink":"/technical/uncategorized"}]}')}}]);

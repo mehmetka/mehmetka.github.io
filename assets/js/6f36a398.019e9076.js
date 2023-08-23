@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[2381],{1731:e=>{e.exports=JSON.parse('{"label":"marasdeprem2023","permalink":"/tags/marasdeprem-2023","allTagsPath":"/tags","count":1,"items":[{"id":"general/supernatural","title":"supernatural","description":"Everybody got into hunting somehow","permalink":"/general/supernatural"}]}')}}]);

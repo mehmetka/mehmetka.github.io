@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[4761],{3157:e=>{e.exports=JSON.parse('{"label":"books","permalink":"/tags/books","allTagsPath":"/tags","count":1,"items":[{"id":"general/reading/uncategorized","title":"uncategorized","description":"Saatler boyunca, baska saatleri bekleriz.","permalink":"/general/reading/uncategorized"}]}')}}]);

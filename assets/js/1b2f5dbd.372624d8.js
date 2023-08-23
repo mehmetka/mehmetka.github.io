@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[7775],{6179:e=>{e.exports=JSON.parse('{"label":"netflix","permalink":"/tags/netflix","allTagsPath":"/tags","count":1,"items":[{"id":"general/series/uncategorized","title":"uncategorized","description":"Ben deliyim ya","permalink":"/general/series/uncategorized"}]}')}}]);
