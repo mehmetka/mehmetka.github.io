@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[4182],{4578:e=>{e.exports=JSON.parse('{"title":"php","slug":"/category/php","permalink":"/category/php","navigation":{"previous":{"title":"mysql","permalink":"/technical/mysql"},"next":{"title":"Log Fatal Errors to Different Log File","permalink":"/technical/php/log-fatal-errors"}}}')}}]);
