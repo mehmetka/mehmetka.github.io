@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[2588],{2789:a=>{a.exports=JSON.parse('{"label":"supernatural","permalink":"/tags/supernatural","allTagsPath":"/tags","count":1,"items":[{"id":"general/supernatural","title":"supernatural","description":"what\'s the plan exactly?","permalink":"/general/supernatural"}]}')}}]);

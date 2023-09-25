@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[4082],{5932:e=>{e.exports=JSON.parse('{"label":"mkdocs","permalink":"/tags/mkdocs","allTagsPath":"/tags","count":1,"items":[{"id":"technical/uncategorized","title":"uncategorized","description":"Delete Google Chrome\'s Auto Redirection","permalink":"/technical/uncategorized"}]}')}}]);
