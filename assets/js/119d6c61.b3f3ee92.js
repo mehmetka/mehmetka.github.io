@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[2684],{6428:e=>{e.exports=JSON.parse('{"label":"poetry","permalink":"/tags/poetry","allTagsPath":"/tags","count":1,"items":[{"id":"general/reading/poetry","title":"poetry","description":"A\u011flama.","permalink":"/general/reading/poetry"}]}')}}]);

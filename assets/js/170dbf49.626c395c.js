@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[8571],{6605:e=>{e.exports=JSON.parse('{"label":"oom","permalink":"/tags/oom","allTagsPath":"/tags","count":1,"items":[{"id":"technical/linux","title":"linux","description":"Create OOM Signal with stress","permalink":"/technical/linux"}]}')}}]);

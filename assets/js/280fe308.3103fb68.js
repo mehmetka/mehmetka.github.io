@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[1096],{9422:e=>{e.exports=JSON.parse('{"label":"browser","permalink":"/tags/browser","allTagsPath":"/tags","count":1,"items":[{"id":"technical/uncategorized","title":"uncategorized","description":"Create UID","permalink":"/technical/uncategorized"}]}')}}]);

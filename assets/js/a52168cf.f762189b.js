@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[8777],{1638:e=>{e.exports=JSON.parse('{"label":"music","permalink":"/tags/music","allTagsPath":"/tags","count":1,"items":[{"id":"general/uncategorized","title":"uncategorized","description":"hakli olarak aklini kacirmis, cunku duzeni anlayamamis.","permalink":"/general/uncategorized"}]}')}}]);
