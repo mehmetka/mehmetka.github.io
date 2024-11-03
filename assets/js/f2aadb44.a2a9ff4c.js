@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[7275],{6791:e=>{e.exports=JSON.parse('{"title":"reading","slug":"/category/reading","permalink":"/category/reading","navigation":{"previous":{"title":"stoicism","permalink":"/general/philosophy/stoicism"},"next":{"title":"acz","permalink":"/general/reading/acz"}}}')}}]);

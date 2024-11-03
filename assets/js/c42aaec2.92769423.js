@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[92],{780:s=>{s.exports=JSON.parse('{"label":"permissions","permalink":"/tags/permissions","allTagsPath":"/tags","count":1,"items":[{"id":"technical/aws/permissions","title":"permissions","description":"IP Based Authorization","permalink":"/technical/aws/permissions"}]}')}}]);

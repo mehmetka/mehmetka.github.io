@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[7455],{9597:a=>{a.exports=JSON.parse('{"label":"acz","permalink":"/tags/acz","allTagsPath":"/tags","count":1,"items":[{"id":"general/reading/acz","title":"acz","description":"Hayalinden vazge\xe7enin ba\u015f\u0131na toprak sa\xe7\u0131ls\u0131n","permalink":"/general/reading/acz"}]}')}}]);

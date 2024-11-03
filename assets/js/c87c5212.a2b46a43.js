@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[8708],{6338:e=>{e.exports=JSON.parse('{"title":"series","slug":"/category/series","permalink":"/category/series","navigation":{"previous":{"title":"schopenhauer","permalink":"/general/schopenhauer"},"next":{"title":"behzatc","permalink":"/general/series/behzatc"}}}')}}]);
